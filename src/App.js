@@ -257,7 +257,7 @@ class Clock extends React.Component {
           }}
         />
           
-          <a target="_blank" rel="noopener noreferrer" href="https://github.com/znematoadz"><span className="m-2 fa fa-github fa-2x fixed-bottom text-center"></span></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/znematoadz/pomoClock"><span className="m-2 fa fa-github fa-2x fixed-bottom text-center"></span></a>
         
       </div>
     );
