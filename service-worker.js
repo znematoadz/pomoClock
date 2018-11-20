@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pomoClock/precache-manifest.23ee8b62672bfdfea021bb56ecc9baf7.js"
+  "/pomoClock/precache-manifest.c7ffde7e504866cbf3beec129b18f87c.js"
 );
 
 workbox.clientsClaim();
