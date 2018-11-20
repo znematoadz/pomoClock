@@ -1,7 +1,7 @@
-# Pomodoro Clock created using React and bootstrapped for deployment with create-react-app
+# Pomodoro Clock 
+created using React and bootstrapped for deployment with create-react-app
 
-
-<a target="_blank" rel="noopener noreferrer" href="https://znematoadz.github.io/pomoClock">Demo</a>
+<a target="_blank" rel="noopener noreferrer" href="https://znematoadz.github.io/pomoClock">Demo here</a>
 
 ## Available Scripts
 
